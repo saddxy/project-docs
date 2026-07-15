@@ -10,3 +10,7 @@ Please follow the coding standards when contributing.
 Please read CONTRIBUTING.md before submitting a pull request.
 
 Project documentation is updated regularly.
+
+## Troubleshooting
+
+This section is still under development.
