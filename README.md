@@ -1,7 +1,5 @@
 # Project Docs
-
-This repository contains documentation for the project.
-The documentation will grow as the project develops.
+This repository contains concise documentation for the development team.
 
 ## Contributing
 Please create a branch before making changes and submit a pull request.
