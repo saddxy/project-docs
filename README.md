@@ -12,3 +12,6 @@ Project documentation is updated regularly.
 ## Troubleshooting
 
 This section is still under development.
+
+
+git install project-docs
