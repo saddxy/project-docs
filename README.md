@@ -13,5 +13,6 @@ Project documentation is updated regularly.
 
 This section is still under development.
 
+## Future Improvements
 
-git install project-docs
+We should eventually add
