@@ -15,4 +15,3 @@ This section is still under development.
 
 
 git install project-docs
-This project is beginner friendly.
