@@ -13,6 +13,8 @@ Project documentation is updated regularly.
 
 This section is still under development.
 
+Additional troubleshooting tips will be added in future updates.
+
 ## Future Improvements
 
-We should eventually add
+We should eventually add more examples, screenshots, and detailed setup instructions for new contributors.
