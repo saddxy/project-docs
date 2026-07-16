@@ -1,5 +1,5 @@
 # Project Docs
-This repository contains concise documentation for the development team.
+This repository contains clear documentation for developers.
 
 ## Contributing
 Please create a branch before making changes and submit a pull request.
