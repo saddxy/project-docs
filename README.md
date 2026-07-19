@@ -26,3 +26,9 @@ Thanks to everyone contributing to this documentation.
 ## Support
 
 If you need help using these project documents, please open an issue or contact the maintainers.
+
+## Reporting issues
+
+If you find a mistake in the docs, please open an issue.
+Include the page name and what you expected to see.
+To get a local copy for testing, run git clone <https://github.com/saddxy/project-docs.git>.
