@@ -18,3 +18,5 @@ Additional troubleshooting tips will be added in future updates.
 ## Future Improvements
 
 We should eventually add more examples, screenshots, and detailed setup instructions for new contributors.
+
+Repository connected to GitHub.
