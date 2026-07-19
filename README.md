@@ -22,3 +22,7 @@ We should eventually add more examples, screenshots, and detailed setup instruct
 Repository connected to GitHub.
 
 Thanks to everyone contributing to this documentation.
+
+## Support
+
+If you need help using these project documents, please open an issue or contact the maintainers.
